@@ -1,4 +1,4 @@
-Olá, eu sou Misael Andrejezieski, um analista e desenvolvedor de sistemas recem formado pela Unicesumar.
+Olá, meu nome é **Misael Andrejezieski**, sou desenvolvedor e analista de sistemas recém-formado pela **Unicesumar**. Atualmente, estou aprendendo a programar.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisaAndrejezieski&theme=blue&show_icons=true)
-![_](https://raw.githubusercontent.com/qxcodefup/arcade/master/base/cobra/cover.jpg)
+
