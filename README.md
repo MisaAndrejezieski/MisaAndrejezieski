@@ -17,26 +17,11 @@ Minha aprendizagem:
 ## Descrição
 Meu projeto incrível faz X, Y e Z. Ele resolve o problema ABC de forma eficiente.
 
-## Funcionalidades
-- Funcionalidade 1: ...
-- Funcionalidade 2: ...
-
-## Instalação
-1. Clone o repositório.
-2. Execute `npm install` para instalar as dependências.
-3. Execute `npm start` para iniciar o servidor.
-
-## Tecnologias Utilizadas
-- Node.js
-- React
-- MongoDB
+## Linguagens
+- Java
+- Javascript
+- Python
+- c, c#
 
 ## Contribuição
 Contribuições são bem-vindas! Siga as diretrizes de contribuição no arquivo CONTRIBUTING.md.
-
-## Licença
-Este projeto está sob a licença MIT.
-
-## Agradecimentos
-Agradeço à comunidade open source e aos colaboradores deste projeto.
-
