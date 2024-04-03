@@ -1,4 +1,4 @@
-Olá, meu nome é **Misael Andrejezieski**, sou desenvolvedor e analista de sistemas.
+Oi, meu nome é **Misael Andrejezieski**, sou desenvolvedor e analista de sistemas.
 😊  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisaAndrejezieski&theme=tokyonight&show_icons=true)
