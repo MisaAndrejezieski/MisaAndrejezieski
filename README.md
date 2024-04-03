@@ -1,11 +1,18 @@
 Olá, meu nome é **Misael Andrejezieski**, sou desenvolvedor e analista de sistemas recém-formado pela **Unicesumar**. Atualmente, estou aprendendo a programar.
 😊
 
+[Portifólio](https://sites.google.com/view/misa-misa/home)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisaAndrejezieski&theme=blue&show_icons=true)
+Minha aprendizagem:
+
+- [Graduação em analise e desenvolvimento de sistema](https://sites.google.com/view/misa-misa/gradua%C3%A7%C3%A3o-em-analise-e-desenvolvimento-de-sistemas?authuser=0)
+
+
+
+
 # Meu Projeto Incrível
 
-!Imagem de capa
+!Ainda NÃO postei
 
 ## Descrição
 Meu projeto incrível faz X, Y e Z. Ele resolve o problema ABC de forma eficiente.
