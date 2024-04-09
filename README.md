@@ -13,36 +13,12 @@ Minha aprendizagem:
 
 https://sites.google.com/view/misa-misa/home
 
-## Descrição
-Meu projeto incrível faz X, Y e Z. Ele resolve o problema ABC de forma eficiente.
-
 ## Linguagens
 - Java
 - Javascript
 - Python
 - c, c++
-
-
 -------------------------------------------------------------------------------------------------
-**Descrição**
-
-Descrição da alteração que está sendo proposta.
-
-**Tipo de alteração**
-
-- [ ] Resolução do Desafio Profile README
-- [ ] Correção de bug
-- [ ] Nova funcionalidade
-- [ ] Alteração na documentação
-- [ ] Outro (especifique)
-
-**Checklist**
-
-- [ ] Minhas alterações não deletam partes do projeto
-- [ ] Minhas alterações não introduzem novos problemas
-- [ ] Minha contribuição está de acordo com o [Guia de Contribuição](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/CONTRIBUTING.md)
-
----
 <h1>
     <a href="https://sites.google.com/view/misa-misa/home">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
@@ -54,12 +30,7 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e) 
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 
-## Objetivo
-Aprender o básico sobre contribuição no GitHub.
 
-## Ferramentas
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 
 ## Percurso
 <table>
