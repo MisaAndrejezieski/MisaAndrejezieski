@@ -1,7 +1,7 @@
 Oi, meu nome é **Misael Andrejezieski**, sou analista e desenvolvedor de sistemas.
 😊  😅  🤙
 
-[![MIT License](https://lh6.googleusercontent.com/tcVY8uSv6uwQnz7ad0O5H8Atj06_6hy5_J8vC61QDVM-GzjolnwMiOk7qUxLWL8Th31hWRoBb2meOJdE5SWIXdcceKeImcXGblTxjIEcB9GHQ2BAWWS2YkhqXSJwSbhc5A=w1280)](https://sites.google.com/view/misa-misa/home)
+[![MIT License](https://lh6.googleusercontent.com/cGr4OU6cXb3z7CTAmsJHINrYnA-5fl1hfNTyZWZv2kUv1XYBYW0eY8C2w6TUQOLJanLoarW8pF2a1Ez3VEDJ_AnQVuxCVMpT2FkPVtPKKCTYk0_lWJPrhJvcjNgrNvocbQ=w1280)
 
 [Portifólio](https://sites.google.com/view/misa-misa/home)
 
