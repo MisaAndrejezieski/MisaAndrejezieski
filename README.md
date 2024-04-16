@@ -1,7 +1,7 @@
 Oi, meu nome é **Misael Andrejezieski**, sou analista e desenvolvedor de sistemas.
 😊  😅  🤙
 
-[![MIT License](https://lh6.googleusercontent.com/cGr4OU6cXb3z7CTAmsJHINrYnA-5fl1hfNTyZWZv2kUv1XYBYW0eY8C2w6TUQOLJanLoarW8pF2a1Ez3VEDJ_AnQVuxCVMpT2FkPVtPKKCTYk0_lWJPrhJvcjNgrNvocbQ=w1280)
+[![MIT License](https://github.com/MisaAndrejezieski/MisaAndrejezieski/blob/main/_cyberpunk.gif)
 
 [Portifólio](https://sites.google.com/view/misa-misa/home)
 
