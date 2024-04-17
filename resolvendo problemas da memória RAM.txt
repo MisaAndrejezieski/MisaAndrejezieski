@@ -1,0 +1,31 @@
+Métodos para resolver o uso de memória RAM reservada para o sistemas.
+
+1. Diagnóstico de memória do Windows.
+Para verificar o Status das suas memórias, dando pro assim dizer como esta a saúde dos Pentes de memória.
+
+2. Fazer um diagnóstico com o MemTest86, esta programa é mais completo e certeiro.
+
+3.Verificar as frequencias das Memória na BIOS do sistema.
+
+4.Entrar MSconfig:
+    . Configurações do sistema.
+    . Opções Avançadas de Inicialização.
+    . Marca a opção Memória máxima, para o número mais alto que o sistema reconhece.
+    . Reinicie sue computador.
+
+5. Limpar os arquivos temporários do sistemas.
+    . Window + R.
+    . Digite "temp"( sem aspas) 
+    . Exclui todos os arquivos existentes.
+    . Digite %temp%.
+    . Exclui todos os arquivos existentes.
+
+6. Mudar as posições das memórias nos SLOTS.
+
+7. Reset a BIOS do sistema.
+    . Retire a bateria da placa mãe e recoloque, depois Renicie o computador.
+
+8. Formate seu cmputador.
+
+9. Se nada deu certo, instale uma das versões do Linux. ( Recomendo o MINT).
+
