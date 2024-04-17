@@ -5,7 +5,7 @@ Para verificar o Status das suas memórias, dando pro assim dizer como esta a sa
 
 2. Fazer um diagnóstico com o MemTest86, esta programa é mais completo e certeiro.
 
-3.Verificar as frequencias das Memória na BIOS do sistema.
+3.Verificar as frequências das Memória na BIOS do sistema.
 
 4.Entrar MSconfig:
     . Configurações do sistema.
@@ -14,7 +14,7 @@ Para verificar o Status das suas memórias, dando pro assim dizer como esta a sa
     . Reinicie sue computador.
 
 5. Limpar os arquivos temporários do sistemas.
-    . Window + R.
+    . Windows + R.
     . Digite "temp"( sem aspas) 
     . Exclui todos os arquivos existentes.
     . Digite %temp%.
