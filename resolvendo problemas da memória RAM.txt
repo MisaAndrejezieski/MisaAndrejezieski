@@ -25,7 +25,7 @@ Para verificar o Status das suas memórias, dando pro assim dizer como esta a sa
 7. Reset a BIOS do sistema.
     . Retire a bateria da placa mãe e recoloque, depois Renicie o computador.
 
-8. Formate seu cmputador.
+8. Formate seu computador.
 
 9. Se nada deu certo, instale uma das versões do Linux. ( Recomendo o MINT).
 
