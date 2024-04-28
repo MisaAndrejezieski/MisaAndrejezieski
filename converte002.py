@@ -4,7 +4,7 @@ from tkinter import ttk
 
 def time_to_percentage(time):
     try:
-        # Converte o tempo no formato HH:MM para uma porcentagem do dia
+        
         hours, minutes = map(int, time.split(':'))
         if hours < 0 or hours > 23 or minutes < 0 or minutes > 59:
             raise ValueError
