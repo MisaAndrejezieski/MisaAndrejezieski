@@ -2,6 +2,7 @@
 import tkinter as tk
 from tkinter import ttk
 
+# calculando porcentagem por hora:
 def time_to_percentage(time):
     try:
         # Converte o tempo no formato HH:MM para uma porcentagem do dia
