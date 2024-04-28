@@ -16,20 +16,22 @@ def calculate_percentage():
 
 root = tk.Tk()
 root.title("Calculadora de Porcentagem do Dia")
-root.geometry('300x200')
+root.geometry('400x300')
 
 style = ttk.Style()
-style.configure("TButton", font=("Arial", 12), background="lightblue")
-style.configure("TLabel", font=("Arial", 12))
+style.configure("TButton", font=("Arial", 12), background="#1E90FF", foreground="white")
+style.configure("TLabel", font=("Arial", 12), background="#F0F8FF")
+style.configure("TEntry", font=("Arial", 12))
+style.configure(".", background="#F0F8FF")
 
-frame = ttk.Frame(root, padding="10")
+frame = ttk.Frame(root, padding="30")
 frame.pack(fill='both', expand=True)
 
 time_label = ttk.Label(frame, text="Por favor, insira o tempo no formato HH:MM")
 time_label.pack()
 
-time_entry = ttk.Entry(frame, font=("Arial", 12))
-time_entry.pack()
+time_entry = ttk.Entry(frame)
+time_entry.pack(pady=10)
 
 calculate_button = ttk.Button(frame, text="Calcular", command=calculate_percentage)
 calculate_button.pack(pady=10)
