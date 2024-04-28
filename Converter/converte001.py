@@ -1,6 +1,6 @@
-
 import tkinter as tk
 from tkinter import ttk
+
 
 def time_to_percentage(time):
     try:
@@ -14,6 +14,7 @@ def time_to_percentage(time):
     except ValueError:
         return None
 
+
 def calculate_percentage(event=None):
     time = time_entry.get()
     if time:
@@ -22,6 +23,7 @@ def calculate_percentage(event=None):
             result_label.config(text=f"A porcentagem do dia para o tempo {time} é: {percentage}%")
         else:
             result_label.config(text="Erro: Por favor, insira o tempo no formato correto (HH:MM).")
+
 
 root = tk.Tk()
 root.title("Calculadora de Porcentagem do Dia")
