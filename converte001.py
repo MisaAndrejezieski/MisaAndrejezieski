@@ -16,7 +16,7 @@ def calculate_percentage(event=None):  # adicionado parâmetro event
 
 root = tk.Tk()
 root.title("Calculadora de Porcentagem do Dia")
-root.geometry('600x300')
+root.geometry('600x200')
 
 style = ttk.Style()
 style.configure("TButton", font=("Arial", 12), background="#1E90FF", foreground="grey")
