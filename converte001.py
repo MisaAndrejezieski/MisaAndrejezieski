@@ -16,10 +16,10 @@ def calculate_percentage():
 
 root = tk.Tk()
 root.title("Calculadora de Porcentagem do Dia")
-root.geometry('400x300')
+root.geometry('600x200')
 
 style = ttk.Style()
-style.configure("TButton", font=("Arial", 12), background="#1E90FF", foreground="white")
+style.configure("TButton", font=("Arial", 12), background="#1E90FF", foreground="black")
 style.configure("TLabel", font=("Arial", 12), background="#F0F8FF")
 style.configure("TEntry", font=("Arial", 12))
 style.configure(".", background="#F0F8FF")
