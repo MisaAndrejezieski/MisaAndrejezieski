@@ -47,7 +47,7 @@ time_entry = ttk.Entry(frame)
 time_entry.pack(pady=10)
 time_entry.bind("<Return>", calculate_percentage)  # Vincular o pressionar Enter à função calculate_percentage
 
-calculate_button = ttk.Button(frame, text="Calcular", command=calculate_percentage)
+calculate_button = ttk.Button(frame, text="Pressione Enter", command=calculate_percentage)
 calculate_button.pack(pady=10)
 
 result_label = ttk.Label(frame, text="", wraplength=400)  # Permite quebras de linha no texto
