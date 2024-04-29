@@ -35,7 +35,7 @@ style = ttk.Style()
 style.configure("TButton", font=("Arial", 12), background="green", foreground="black")  # Alterado para verde
 style.configure("TEntry", font=("Arial", 12))
 style.configure("TLabel", font=("Arial", 12))
-style.configure(".", background="red")  # Alterado para vermelho
+style.configure(".", background="# 87CEFA")  # Alterado para vermelho
 
 frame = ttk.Frame(root, padding="30")
 frame.pack(fill="both", expand=True)
