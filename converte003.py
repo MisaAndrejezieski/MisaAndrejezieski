@@ -28,7 +28,7 @@ def calculate_percentage(event=None):  # Adicionado parâmetro de evento
         messagebox.showerror("Erro Inesperado", f"Ocorreu um erro: {e}")
 
 root = tk.Tk()
-root.title("Calculadora de Porcentagem de ")
+root.title(":: Calculadora de Porcentagem de tempo ::")
 root.geometry("600x300")
 
 style = ttk.Style()
