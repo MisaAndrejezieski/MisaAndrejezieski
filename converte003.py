@@ -32,7 +32,7 @@ root.title(":: Calculadora de Porcentagem de tempo ::")
 root.geometry("600x300")
 
 style = ttk.Style()
-style.configure("TButton", font=("Arial", 12), background="green", foreground="black")  # Alterado para verde
+style.configure("TButton", font=("Arial", 12), background="	# FF6347", foreground="black")  # Alterado para verde
 style.configure("TEntry", font=("Arial", 12))
 style.configure("TLabel", font=("Arial", 12))
 style.configure(".", background="# 87CEFA")  # Alterado para vermelho
