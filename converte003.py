@@ -1,4 +1,4 @@
-# Importa os módulos necessários
+# Importa os módulos necessários para rodar
 import tkinter as tk
 from tkinter import ttk, messagebox
 
