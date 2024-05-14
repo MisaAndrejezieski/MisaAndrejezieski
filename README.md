@@ -1,6 +1,6 @@
 Oi, meu nome é **Misael Andrejezieski**, sou analista e desenvolvedor de sistemas.
 😊   🤙
-[![card](https://github-readme-stats.vercel.app/api?username=MisaAndrejezieski&theme=default)](https://github.com/MisaAndrejezieski/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=MisaAndrejezieski&theme=dark)](https://github.com/MisaAndrejezieski/github-readme-stats)
 
 [![MIT License](https://github.com/MisaAndrejezieski/MisaAndrejezieski/blob/main/_cyberpunk.gif)
 
