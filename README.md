@@ -1,6 +1,5 @@
 Oi, meu nome é **Misael Andrejezieski**, sou analista e desenvolvedor de sistemas.
 
-![MIT License]()
 
 [Portifólio](https://sites.google.com/view/misa-misa/home)
 
@@ -21,4 +20,5 @@ https://sites.google.com/view/misa-misa/home
 - c, c++
 -------------------------------------------------------------------------------------------------
 😊 😸
+
 
